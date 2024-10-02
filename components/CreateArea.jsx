@@ -34,7 +34,7 @@ function CreateArea(props) {
     }
 
     function handleClick() {
-        sethandled(prevValue => !prevValue);
+        sethandled(!false);
     }
 
 
